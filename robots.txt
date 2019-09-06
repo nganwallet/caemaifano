@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://yeikohfoh.poz.hiv/sitemap.xml
